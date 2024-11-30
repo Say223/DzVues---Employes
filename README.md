@@ -1,6 +1,5 @@
 # DzVues - Employes
-The "Employes" repository is dedicated to the employee-side application of a desktop management system for national magazines, developed using Java. This application provides functionality for employees to interact with the system, access information, and perform tasks relevant to their roles within the organization.
-
+The "Employee Management" repository is dedicated to the employee-side desktop application of a national magazine management system, developed using Java. This application enables employees to efficiently interact with the system, manage their tasks, access schedules, submit content, and collaborate with other team members to ensure seamless magazine production.
 ## Features
 - User Authentication: Secure login functionality for employees to access their personalized accounts.
 - View Magazine Information: Employees can view information about magazines, including titles, publication dates, and content.
