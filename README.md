@@ -1,20 +1,19 @@
-# DzVues - Employes
-The "Employee Management" repository is dedicated to the employee-side desktop application of a national magazine management system, developed using Java. This application enables employees to efficiently interact with the system, manage their tasks, access schedules, submit content, and collaborate with other team members to ensure seamless magazine production.
-## Features
-- User Authentication: Secure login functionality for employees to access their personalized accounts.
-- View Magazine Information: Employees can view information about magazines, including titles, publication dates, and content.
-- Task Management: Allows employees to manage tasks assigned to them, such as article writing, editing, or submission deadlines
+# DzVues - Employees
+The Employee Management repository contains the desktop application designed for staff members within the DzVues national magazine management system. Developed in Java, this platform streamlines employee interactions, task management, and content submission, fostering seamless collaboration for efficient magazine production.
 
-## Technologies Used
-- Java: Object-oriented programming language used for developing the desktop application.
-- JavaFX: Framework for creating rich user interfaces for Java applications, used for building the graphical user interface (GUI) of the application.
-
+## Key Features
+User Authentication – Secure login for employees to access their personalized workspace.
+Magazine Overview – View essential details about magazines, including titles, publication dates, and content.
+Task Management – Organize and track assigned tasks, such as article writing, editing, and submission deadlines.
+## Tech Stack
+Java – Core programming language for backend development.
+JavaFX – Framework for building an interactive and visually appealing desktop interface.
 ## Getting Started
-- Clone the repository to your local machine.
-- Open the project in your preferred Java IDE.
-- Compile and run the application to start using the employee management system.
-
-## Usage
-- Launch the application and log in with your employee credentials.
-- Navigate through the interface to access magazine information, view assigned tasks, and perform necessary actions.
-- Interact with the system to manage tasks and stay updated on magazine-related activities.
+Clone this repository to your local system.
+Open the project in your preferred Java IDE.
+Compile and run the application to begin managing employee tasks.
+## How It Works
+Log in using your employee credentials.
+Browse magazine details and stay informed about publication updates.
+Manage assigned tasks efficiently, from content creation to deadlines.
+Collaborate with team members and contribute to the magazine production process.
